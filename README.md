@@ -59,5 +59,5 @@ I'm a passionate Computer Science student and currently studying in FAST-NUCES-K
 
 * 💼 LinkedIn: *https://www.linkedin.com/in/harsh-dembla-215087344/*
 * 📧 Email: *harshdembla80@gmail.com*
-* <img width="50" height="50" alt="icons8-leetcode-50" src="https://github.com/user-attachments/assets/ff2750b0-5a1d-45e3-8914-dfeb4e48e3ca" /> Leetcode *https://leetcode.com/u/harsh_dollar/*
+* <img width="50" height="50" alt="icons8-leetcode-50" src="https://github.com/user-attachments/assets/ff2750b0-5a1d-45e3-8914-dfeb4e48e3ca" /> Leetcode *https://leetcode.com/u/Harsh-Dembla/*
 
