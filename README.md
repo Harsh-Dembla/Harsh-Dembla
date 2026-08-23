@@ -6,7 +6,7 @@ I'm a passionate Computer Science student and currently studying in FAST-NUCES-K
 
 ## 🚀 About Me
 
-* 🧠 Solved **115+ LeetCode** problems and solving more consistently every day.
+* 🧠 Solved **150+ LeetCode** problems and solving more consistently every day.
 * 🏆 Passionate about **Competitive Programming** and Data Structures & Algorithms.
 * 🌱 Currently learning **PyTorch**, **Generative AI**, and advanced DSA.
 * 🤖 Interested in **Artificial Intelligence**, **Machine Learning**, and **Large Language Models (LLMs)**.
