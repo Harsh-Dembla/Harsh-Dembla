@@ -50,7 +50,7 @@ I'm a passionate Computer Science student and currently studying in FAST-NUCES-K
 
 ## 📈 Achievements
 
-* ✅ Solved **115+ LeetCode** problems.
+* ✅ Solved **150+ LeetCode** problems.
 * ✅ Built multiple Object-Oriented Programming projects in C++.
 * ✅ Developed a database-driven E-Commerce website.
 * ✅ Consistently improving problem-solving through daily coding practice.
