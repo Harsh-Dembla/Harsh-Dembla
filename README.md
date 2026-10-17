@@ -1,8 +1,3 @@
-```markdown
-<div align="center">
-
-# `Harsh-Dembla@github:~$ whoami`
-
 ### Harsh Kumar
 **CS Student | Competitive Programmer | AI Enthusiast**
 
@@ -117,16 +112,4 @@ A database-driven e-commerce project integrating application logic with relation
 
 ---
 
-<div align="center">
 
-```text
-Harsh-Dembla@github:~$ echo "Thanks for visiting!"
-Thanks for visiting!
-
-Harsh-Dembla@github:~$ _
-```
-
-**`ACCESS GRANTED // KEEP BUILDING`**
-
-</div>
-```
