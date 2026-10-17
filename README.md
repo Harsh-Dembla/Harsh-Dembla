@@ -1,63 +1,132 @@
-# Hi 👋, I'm Harsh Kumar
+```markdown
+<div align="center">
 
-### 💻 Computer Science Student | Competitive Programmer | AI Enthusiast | 4th Semster
+# `Harsh-Dembla@github:~$ whoami`
 
-I'm a passionate Computer Science student and currently studying in FAST-NUCES-KARACHI who enjoys solving algorithmic problems, building software projects, and exploring the latest advancements in Artificial Intelligence. I love learning new technologies and continuously improving my problem-solving skills.
+### Harsh Kumar
+**CS Student | Competitive Programmer | AI Enthusiast**
 
-## 🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Dembla&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
-* 🧠 Solved **150+ LeetCode** problems and solving more consistently every day.
-* 🏆 Passionate about **Competitive Programming** and Data Structures & Algorithms.
-* 🌱 Currently learning **PyTorch**, **Generative AI**, and advanced DSA.
-* 🤖 Interested in **Artificial Intelligence**, **Machine Learning**, and **Large Language Models (LLMs)**.
-* 🎯 Long-term goal: Build an intelligent AI assistant similar to **Jarvis**.
-* 💡 Always excited to learn new technologies and work on challenging projects.
+</div>
 
-## 🛠️ Tech Stack
+```text
+Harsh-Dembla@github:~$ whoami
 
-**Languages**
+==================================================
+[ USER INFORMATION ]
+==================================================
+Role ............. CS Student @ FAST-NUCES, Karachi
+Focus ............ AI | Machine Learning | DSA
+Editor ........... VS Code
+Languages ........ C | C++ | Python | JavaScript
+Technologies ..... OOP | STL | SFML | Git
+Databases ........ SQL | DBMS
+Learning ......... PyTorch | Deep Learning | GenAI
+Interests ........ Competitive Programming | LLMs
+Projects ......... Maze Game | Chatbot | E-Commerce
+LeetCode ......... 150+ problems solved
+Mission .......... Build my own intelligent AI assistant
+Philosophy ....... Learn. Build. Debug. Repeat.
 
-* C
-* C++
-* JavaScript
-* Python
+==================================================
+Harsh-Dembla@github:~$ _
+```
 
-**Technologies**
+## `01` // About Me
 
-* Git
-* GitHub
-* Object-Oriented Programming (OOP)
-* STL
-* SFML
-* SQL
-* Database Management Systems (DBMS)
+Hey! I'm **Harsh Kumar**, a Computer Science student at **FAST-NUCES, Karachi**.
 
-## 📚 Currently Learning
+- 🧠 Solved **150+ LeetCode problems** and continuously improving.
+- 🏆 Interested in Competitive Programming and Data Structures & Algorithms.
+- 🤖 Exploring AI, Machine Learning, Deep Learning, and Large Language Models.
+- 🌱 Currently learning PyTorch, Generative AI, backtracking, and graph algorithms.
+- 🎮 Enjoy building software and C++ projects using OOP and SFML.
+- 🎯 Long-term mission: Build an intelligent AI assistant inspired by **Jarvis**.
 
-* Data Structures & Algorithms
-* Competitive Programming
-* Backtracking & Graph Algorithms
-* PyTorch
-* Generative AI
-* Deep Learning
+```bash
+$ cat mission.txt
+Understand the fundamentals.
+Build things that work.
+Keep getting better.
+```
 
-## 🚀 Projects
+## `02` // Tech Stack
 
-* 🎮 Maze Game (C++ & SFML)
-* 🍽️ Restaurant Management Simulator
-* 🤖 Multi-Domain Chatbot System
-* 🛒 E-Commerce Website with Database Integration
+### Languages
 
-## 📈 Achievements
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* ✅ Solved **150+ LeetCode** problems.
-* ✅ Built multiple Object-Oriented Programming projects in C++.
-* ✅ Developed a database-driven E-Commerce website.
-* ✅ Consistently improving problem-solving through daily coding practice.
+### AI & Machine Learning
 
-## 📫 Connect With Me
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-00A67E?style=for-the-badge&logo=brain&logoColor=white)
 
-* 💼 LinkedIn: *https://www.linkedin.com/in/harsh-dembla-215087344/*
-* 📧 Email: *harshdembla80@gmail.com*
-* <img width="50" height="50" alt="icons8-leetcode-50" src="https://github.com/user-attachments/assets/ff2750b0-5a1d-45e3-8914-dfeb4e48e3ca" /> Leetcode *https://leetcode.com/u/Harsh-Dembla/*
+### Tools & Technologies
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Core concepts:** Object-Oriented Programming · STL · Data Structures & Algorithms · Database Management Systems
+
+## `03` // Projects
+
+### 🎮 Maze Game
+A C++ game project built using SFML, focused on game logic, problem-solving, and object-oriented programming.
+
+### 🍽️ Restaurant Management Simulator
+A simulation project applying programming fundamentals and OOP concepts to restaurant operations.
+
+### 🤖 Multi-Domain Chatbot System
+A chatbot project designed to handle queries across multiple domains.
+
+### 🛒 E-Commerce Website
+A database-driven e-commerce project integrating application logic with relational database concepts.
+
+> Explore my repositories for source code and project updates.
+
+## `04` // Achievements
+
+- ✅ Solved **150+ problems on LeetCode**.
+- ✅ Built multiple C++ projects using OOP.
+- ✅ Developed a database-integrated e-commerce website.
+- ✅ Continuously practicing DSA and competitive programming.
+- ✅ Exploring practical applications of AI and deep learning.
+
+## `05` // Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harsh-Dembla/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Dembla)
+
+</div>
+
+## `06` // Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-dembla-215087344/)
+- 📧 [Email](mailto:harshdembla80@gmail.com)
+- 💻 [GitHub](https://github.com/Harsh-Dembla)
+- 🧩 [LeetCode](https://leetcode.com/u/Harsh-Dembla/)
+
+---
+
+<div align="center">
+
+```text
+Harsh-Dembla@github:~$ echo "Thanks for visiting!"
+Thanks for visiting!
+
+Harsh-Dembla@github:~$ _
+```
+
+**`ACCESS GRANTED // KEEP BUILDING`**
+
+</div>
+```
