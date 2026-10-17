@@ -1,13 +1,6 @@
 ### Harsh Kumar
 **CS Student | Competitive Programmer | AI Enthusiast**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Dembla&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-
-```text
-Harsh-Dembla@github:~$ whoami
-
 ==================================================
 [ USER INFORMATION ]
 ==================================================
@@ -25,8 +18,6 @@ Mission .......... Build my own intelligent AI assistant
 Philosophy ....... Learn. Build. Debug. Repeat.
 
 ==================================================
-Harsh-Dembla@github:~$ _
-```
 
 ## `01` // About Me
 
@@ -38,13 +29,6 @@ Hey! I'm **Harsh Kumar**, a Computer Science student at **FAST-NUCES, Karachi**.
 - 🌱 Currently learning PyTorch, Generative AI, backtracking, and graph algorithms.
 - 🎮 Enjoy building software and C++ projects using OOP and SFML.
 - 🎯 Long-term mission: Build an intelligent AI assistant inspired by **Jarvis**.
-
-```bash
-$ cat mission.txt
-Understand the fundamentals.
-Build things that work.
-Keep getting better.
-```
 
 ## `02` // Tech Stack
 
@@ -96,12 +80,10 @@ A database-driven e-commerce project integrating application logic with relation
 
 ## `05` // Coding Profiles
 
-<div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harsh-Dembla/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Dembla)
 
-</div>
 
 ## `06` // Connect With Me
 
